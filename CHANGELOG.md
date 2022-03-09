@@ -8,6 +8,12 @@
 
 * **[Feature]**  Add support target framework `net5.0-windows10.0.17763.0` or higher for non-WinUI applications.
 
+#### macOS 
+
+* **[Fix]** Fix "Malformed Framework" error when submitting to App Store.
+
+___
+
 ## Version 4.5.0
 
 ### App Center
